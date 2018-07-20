@@ -7,9 +7,9 @@ import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Service;
 
 /**
- * @author 作者:chenjie
- * @version 创建时间：2011-3-3 下午10:27:58 
- * 类说明:
+ * @author Yiheng
+ * @create 2018/7/15
+ * @since 1.0.0
  */
 @Service
 @Lazy(false)
