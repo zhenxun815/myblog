@@ -31,9 +31,8 @@ import tk.mybatis.mapper.common.MySqlMapper;
 /**   
  * @ClassName:  MyMapper   
  * @Description:TODO(自己的mapper )   
- * @author: chenjie(findlook@163.com)
- * @date:   2016年11月7日 下午10:19:16     
- * @param <T>  
+ * @author: Yiheng
+ * @param <T>
  */
 public interface MyMapper<T> extends Mapper<T>, MySqlMapper<T> {
     //TODO
