@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>myblog</name>
-    <description>Yiheng&#39;s First Bolg</description>
+    <description>Yiheng&#39;s Bolg</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -62,12 +62,12 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.31</version>
+            <version>1.2.51</version>
         </dependency>
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
-            <version>1.0.11</version>
+            <version>1.1.12</version>
         </dependency>
         <!-- common -->
         <dependency>
